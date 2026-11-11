@@ -1,2 +1,8 @@
-# ferramenta-pytest
-Pytest é um framework de testes para Python que combina simplicidade e potência. Suporta testes unitários, funcionais e de integração, com fixtures, parametrização e plugins. Ideal para automatizar, organizar e garantir qualidade no código de qualquer projeto.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
